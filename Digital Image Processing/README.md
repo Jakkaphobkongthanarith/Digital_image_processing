@@ -1,6 +1,6 @@
-## Project
-### The project goal is to find the most efficient model for age estimation using a different initialization method for model training.
-## Usage:
-### 1.	After downloading the files, put them in Google Colab.
-### 2.	Download Kaggle API.
-### 3.	Press ‘Run all’ in Google Colab.
+## DSP Project: Age Estimation
+#### The project goal is to find the most efficient model for age estimation using a different initialization method for model training.
+## Instruction:
+#### Download Kaggle API for download the dataset.
+#### Place 'ipynb' in Google Colab.
+#### Use 'Run all' to see the result and detail of the model.
